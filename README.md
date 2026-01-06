@@ -1,7 +1,7 @@
-# Run and deploy your AI Studio app
+# STUBRO AI 
 
-This contains everything you need to run your app locally.
-
+This contains everything you need to run this app locally.
+ This app is made for students z struggling in studied.
 ## Run Locally
 
 **Prerequisites:**  Node.js
